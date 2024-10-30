@@ -1,0 +1,15 @@
+{
+  "name": "sprunki-phase-7",
+  "version": "1.0.0",
+  "description": "An interactive online music creation game inspired by Incredibox, with unique characters and community sharing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[Your Name]",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["Sprunki", "music game", "Incredibox mod", "interactive", "online game"]
+}
