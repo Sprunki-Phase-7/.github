@@ -30,4 +30,7 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 ## Contact
 For questions, feedback, or support, please reach out through the issue tracker on GitHub.
+## Sprunki Region:
+- [Sprunki Germany](https://github.com/Sprunki-Spiel)
+- [Sprunki Canada](https://github.com/Sprunki-Incredibox-Game)
 
